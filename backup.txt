@@ -1,0 +1,8 @@
+http://182.92.159.193/edu/college/devices
+{
+	"error": "duplicate_unique_property_exists",
+	"timestamp": 1496470826539,
+	"duration": 0,
+	"exception": "org.apache.usergrid.persistence.exceptions.DuplicateUniquePropertyExistsException",
+	"error_description": "Application 4e56b470-5936-11e6-bb51-69a123b492b9 Entity device requires that property named token be unique, value of f176b4cf-7778-360b-855d-fb3f8bd8b4d6 exists"
+}
